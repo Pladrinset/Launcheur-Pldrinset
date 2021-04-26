@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AzertyLauncher</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/resources/admin.png</name>
+			<type>1</type>
+			<location>C:/Users/Céline/Documents/admin.png</location>
+		</link>
+		<link>
+			<name>src/resources/background.png</name>
+			<type>1</type>
+			<location>C:/Users/Céline/Desktop/background.png</location>
+		</link>
+		<link>
+			<name>src/resources/background2.png</name>
+			<type>1</type>
+			<location>C:/Users/Céline/Desktop/background2.png</location>
+		</link>
+		<link>
+			<name>src/resources/logo.png</name>
+			<type>1</type>
+			<location>C:/Users/Céline/Desktop/logo/Pladrinset logo.png</location>
+		</link>
+		<link>
+			<name>src/resources/logo2.png</name>
+			<type>1</type>
+			<location>C:/Users/Céline/Desktop/logo P.png</location>
+		</link>
+		<link>
+			<name>src/resources/lovely-script.otf</name>
+			<type>1</type>
+			<location>C:/Users/Céline/Desktop/lovely-script.otf</location>
+		</link>
+	</linkedResources>
+</projectDescription>
